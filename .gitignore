@@ -1,0 +1,8 @@
+# Jupyter Notebook checkpoints (hidden folder that Јupyter makes on its own)
+.ipynb_checkpoints/
+
+# Python cache (automatically generated executing files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
