@@ -6,3 +6,10 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# nbqa & Pylint cache
+.nbqa_cache/
+.pylintcache
+
+# OS generated files
+Thumbs.db

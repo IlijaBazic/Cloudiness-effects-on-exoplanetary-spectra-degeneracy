@@ -1,0 +1,6 @@
+[BASIC]
+# Regularan izraz koji dozvoljava korišćenje grčkih slova za imena promenljivih u Python-u.
+good-names-rgxs=^[\u0370-\u03ff]$
+[MESSAGES CONTROL]
+disable=
+    C2401  # Onemogući non-ascii-name provjeru
