@@ -45,3 +45,4 @@ The core components of the project are organized as follows:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Cloudiness-effects-on-exoplanetary-spectra-degeneracy.git](https://github.com/YOUR_USERNAME/Cloudiness-effects-on-exoplanetary-spectra-degeneracy.git)
+2. Basic usage of this will be opening **`Statisticka-analiza-automatizovana.ipynb`** or first of the partial .ipynb files in the repo, use button Restart & Run All. Then, the rest of the .ipynb files will have the necessary data to perform its part of work the same way.
