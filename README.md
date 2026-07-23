@@ -1,12 +1,12 @@
 # Cloudiness Effects on Exoplanetary Spectra Degeneracy
 
-This repository contains the scientific pipeline, simulation grids, and statistical analysis tools used to study atmospheric degeneracy in hot Jupiters, with a specific focus on WASP-17b. The project utilizes the NASA Planetary Spectrum Generator (PSG) to model forward transmission spectra and evaluate how varying terminator cloudiness impacts the retrieval of atmospheric parameters.
+This repository contains the scientific pipeline, simulation grids, and statistical analysis tools used to study atmospheric degeneracy in hot Jupiters, with a specific focus on WASP-17b. The project utilizes the NASA Planetary Spectrum Generator (PSG) to model forward radiance spectra and evaluate how varying terminator cloudiness impacts the retrieval of atmospheric parameters.
 
 ---
 
 ## Scientific Context
 
-Atmospheric characterization of exoplanets via transmission spectroscopy frequently encounters degeneracy, where distinct physical scenarios (e.g., high-altitude cloud decks versus varying chemical abundances) produce similar spectral signatures. 
+Atmospheric characterization of exoplanets via radiance spectroscopy frequently encounters degeneracy, where distinct physical scenarios (e.g., high-altitude cloud decks versus varying chemical abundances) produce similar spectral signatures. 
 
 Following the empirical framework of Sing et al. (2016) and other work, WASP-17b is modeled as a cloudy/hazy hot Jupiter. This project simulates transit observations using the JWST NIRISS-SOSS instrument profile ($0.8 - 2.2 μm$) to:
 1. Model spatial and terminator asymmetry (ingress vs. egress) under various cloud fractions.
@@ -45,3 +45,4 @@ The core components of the project are organized as follows:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Cloudiness-effects-on-exoplanetary-spectra-degeneracy.git](https://github.com/YOUR_USERNAME/Cloudiness-effects-on-exoplanetary-spectra-degeneracy.git)
+2. Basic usage of this will be opening **`Statisticka-analiza-automatizovana.ipynb`** or first of the partial .ipynb files in the repo, use button Restart & Run All. Then, the rest of the .ipynb files will have the necessary data to perform its part of work the same way.
