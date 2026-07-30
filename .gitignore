@@ -13,3 +13,9 @@ __pycache__/
 
 # OS generated files
 Thumbs.db
+
+# Ignore all generated PNG images (view renderings & diagnostic plots)
+*.png
+
+# Ignore results directory if it contains heavy PNG outputs
+output_results/**/*.png
