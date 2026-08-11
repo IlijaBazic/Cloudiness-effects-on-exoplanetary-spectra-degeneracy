@@ -19,3 +19,7 @@ Thumbs.db
 
 # Ignore results directory if it contains heavy PNG outputs
 output_results/**/*.png
+
+#Ignore temporary and html files
+*.html
+*tmp*

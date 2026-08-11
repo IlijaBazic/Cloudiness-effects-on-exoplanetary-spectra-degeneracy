@@ -1,5 +1,7 @@
 # Cloudiness Effects on Exoplanetary Spectra Degeneracy
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IlijaBazic/Cloudiness-effects-on-exoplanetary-spectra-degeneracy/HEAD?filepath=Statisticka-analiza-automatizovana.ipynb)
+
 This repository contains the scientific pipeline, simulation grids, and statistical analysis tools used to study atmospheric degeneracy in hot Jupiters, with a specific focus on WASP-17b. The project utilizes the NASA Planetary Spectrum Generator (PSG) to model forward radiance spectra and evaluate how varying terminator cloudiness impacts the retrieval of atmospheric parameters.
 
 ---
