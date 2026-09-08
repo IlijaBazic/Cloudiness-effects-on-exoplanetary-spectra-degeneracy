@@ -1,5 +1,5 @@
 corner~=2.2.3
-ipython~=9.4.0
+ipython~=8.37.0
 ipywidgets~=8.1.5
 matplotlib~=3.10.5
 numpy~=2.3.0
