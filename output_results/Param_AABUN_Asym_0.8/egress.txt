@@ -2,12 +2,12 @@
 # ------------------------------------------------------------------------
 # Radiance spectrum
 # NASA-GSFC Planetary Spectrum Generator (PSG) (Villanueva et al. 2018, 2022)
-# Synthesized on Tue Aug 11 11:18:14 2026
+# Synthesized on Sun Sep  6 16:12:43 2026
 # Doppler velocities [km/s] (vobs,vrot+vorb,vwidth,vrfl,vstr): -49.51300,-0.00000,1.84000,-0.00000,-0.00000
 # ------------------------------------------------------------------------
 # Spectra synthesized with the Planetary and Universal Model of Atmospheric Scattering (PUMAS, Villanueva et al. 2018, 2022)
 # Single scattering radiative transfer method
-# Radiative transfer took 3.194 seconds
+# Radiative transfer took 3.239 seconds
 # ------------------------------------------------------------------------
 # Spectral unit: Wavelength [um]
 # Radiance unit: Contrast [radiance ratio w.r.t. parent star]
